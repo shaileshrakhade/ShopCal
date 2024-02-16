@@ -1,0 +1,7 @@
+{
+  "name": "ShopCal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
